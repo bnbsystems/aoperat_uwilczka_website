@@ -37,7 +37,7 @@ const Contact = ({ data }) => {
   return (
     <Layout className="contact-page" sx={contactStyles.contactPage}>
       <Seo
-        title={"Kontroperat - Kontakt"}
+        title={"U Wilczka - Kontakt"}
         description={frontmatter.title + " " + site.siteMetadata.title}
       />
       <section>

@@ -30,7 +30,7 @@ const AboutPage = ({ data }) => {
 
   return (
     <Layout className="page">
-      <Seo title={"Kontroperat - " + frontmatter.title} description={frontmatter.subheading} />
+      <Seo title={"U Wilczka - " + frontmatter.title} description={frontmatter.subheading} />
       <AboutPageBody
         contentComponent={HTMLContent}
         title={frontmatter.title}

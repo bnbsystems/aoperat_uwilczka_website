@@ -34,7 +34,7 @@ const ServicesPage = ({ data }) => {
 
   return (
     <Layout className="page">
-      <Seo title={"Kontroperat - Usługi"} description={frontmatter.subheading} />
+      <Seo title={"U Wilczka - Usługi"} description={frontmatter.subheading} />
       <ServicesPageBody 
         title={frontmatter.title}
         subheading={frontmatter.subheading}
