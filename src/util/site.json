@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "Kontroperat",
+    "titleTemplate": "%s",
+    "description": "Zajmujemy się wykonywaniem kontroperatów.",
+    "siteUrl": "https://kontroperat.pl",
+    "image": "/assets/aoperat-logo-transparent.png",
+    "iconimage": "/assets/aoperat-logo-transparent.png"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
